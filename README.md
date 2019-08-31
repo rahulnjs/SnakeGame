@@ -1,3 +1,5 @@
 # SnakeGame in Java
 
-![Imgur](https://i.imgur.com/un9p1ZZ.png)
+### Build the project in NetBeans and start playing...
+
+![Imgur](https://i.imgur.com/hqneAnP.gif)
